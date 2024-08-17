@@ -68,7 +68,7 @@ struct ProductViewModel: Identifiable {
     init(cart: CartProduct) {
         self.id = cart.id
         self.name = cart.name
-        self.descriptionText = cart.description
+        self.descriptionText = cart.descriptionText
         self.imageURL = cart.imageURL
         self.price = cart.price
         self.oldPrice = cart.oldPrice
