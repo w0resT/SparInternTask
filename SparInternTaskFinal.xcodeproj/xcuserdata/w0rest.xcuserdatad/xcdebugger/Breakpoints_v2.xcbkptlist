@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FE078C49-4D31-4606-9250-7825F3A31D8F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D011C4C6-E4C8-42B5-9741-0EE52FB1EA34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Models/CatalogViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "updateCatalog()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FF1EB41-FBA6-4504-801F-54AD2C80AC56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchProducts(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FF1EB41-FBA6-4504-801F-54AD2C80AC56 - 85789a40de7f7488"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparInternTaskFinal.NetworkService.fetchProducts(urlString: Swift.String, completion: (Swift.Result&lt;SparInternTaskFinal.ProductsResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "2FF1EB41-FBA6-4504-801F-54AD2C80AC56 - ce31e6f35717e24d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;SparInternTaskFinal.ProductsResponse, Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkService.fetchProducts(urlString: Swift.String, completion: (Swift.Result&lt;SparInternTaskFinal.ProductsResponse, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2533BD68-BCEB-4BB4-B0C3-949DF879D9B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/NetworkProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "request(endpoint:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2533BD68-BCEB-4BB4-B0C3-949DF879D9B7 - 50d7240407de4925"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "2533BD68-BCEB-4BB4-B0C3-949DF879D9B7 - 50d7240407de4925"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "2533BD68-BCEB-4BB4-B0C3-949DF879D9B7 - 50d7240407de4925"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "406">
+               </Location>
+               <Location
+                  uuid = "2533BD68-BCEB-4BB4-B0C3-949DF879D9B7 - 50d7240407de4925"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03D1BFC0-D9DB-4089-9905-E3893EEA14E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/NetworkProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "request(endpoint:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03D1BFC0-D9DB-4089-9905-E3893EEA14E0 - 50d7240407de4e80"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "717">
+               </Location>
+               <Location
+                  uuid = "03D1BFC0-D9DB-4089-9905-E3893EEA14E0 - 50d7240407de4e80"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparInternTaskFinal.NetworkProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/NetworkProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "829">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28AE3199-35C2-498D-8613-EE283AD6ABCA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/NetworkProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "request(endpoint:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74407D0F-D5A2-4E7E-AC47-4A836C36B23E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/LocalDatabaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchProductsFromCart()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEAD4022-14A0-47F9-A708-7E0085BCEC5D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Models/CatalogViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "updateCatalog()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AD73D01-04D7-4CA5-A5EA-5B482B952F91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Models/CartViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "observeCartChanges()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5AD73D01-04D7-4CA5-A5EA-5B482B952F91 - f6dec2d201559abc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmSwift.RealmCollectionChange&lt;RealmSwift.Results&lt;SparInternTaskFinal.CartProduct&gt;&gt;) -&gt; () in SparInternTaskFinal.CartViewModel.observeCartChanges() -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Models/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "5AD73D01-04D7-4CA5-A5EA-5B482B952F91 - f6dec2d201559a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RealmSwift.RealmCollectionChange&lt;RealmSwift.Results&lt;SparInternTaskFinal.CartProduct&gt;&gt;) -&gt; () in SparInternTaskFinal.CartViewModel.observeCartChanges() -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Models/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44389D5E-2801-422D-AA97-0913C247464A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Views/Catalog/Cell/CellButtonCartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparInternTaskFinal/Services/LocalDatabaseService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "addProductToCart(_:quantity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5 - c16cd0bc4d71fe21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparInternTaskFinal.LocalDatabaseService.addProductToCart(_: SparInternTaskFinal.ProductViewModel, quantity: Swift.Int) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/LocalDatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+               <Location
+                  uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5 - c16cd0bc4d71fe0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparInternTaskFinal.LocalDatabaseService.addProductToCart(_: SparInternTaskFinal.ProductViewModel, quantity: Swift.Int) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/LocalDatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "812">
+               </Location>
+               <Location
+                  uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5 - 94b2c860f235980e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SparInternTaskFinal.LocalDatabaseService.addProductToCart(_: SparInternTaskFinal.ProductViewModel, quantity: Swift.Int) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/LocalDatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5 - c16cd0bc4d71fe0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparInternTaskFinal.LocalDatabaseService.addProductToCart(_: SparInternTaskFinal.ProductViewModel, quantity: Swift.Int) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/LocalDatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "D6AC2E0F-8B49-4AD4-8CCC-47B8A927A4D5 - c16cd0bc4d71fc5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparInternTaskFinal.LocalDatabaseService.addProductToCart(_: SparInternTaskFinal.ProductViewModel, quantity: Swift.Int) -&gt; ()"
+                  moduleName = "SparInternTaskFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/w0rest/Desktop/projects/SparInternTaskFinal/SparInternTaskFinal/Services/LocalDatabaseService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
