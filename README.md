@@ -1,8 +1,7 @@
 # Spar Inter Task | Mikhail Yurchuk
 
-## Used
-- SwiftUI
-- Realm (SPM)
+- Realm (SPM) for local cart
+- Products via Network in JSON format or Mock-Model
 - Swiftgen
 - SwiftLint (for ease of use)
 
